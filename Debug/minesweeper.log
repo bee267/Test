@@ -1,0 +1,3 @@
+﻿  functions.cpp
+C:\Users\ThinkPad T460s\source\repos\minesweeper\functions.cpp(123,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  minesweeper.vcxproj -> C:\Users\ThinkPad T460s\source\repos\minesweeper\Debug\minesweeper.exe
